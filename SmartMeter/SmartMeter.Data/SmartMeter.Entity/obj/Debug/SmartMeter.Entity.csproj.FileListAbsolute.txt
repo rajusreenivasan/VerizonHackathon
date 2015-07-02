@@ -1,0 +1,5 @@
+D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Entity\bin\Debug\SmartMeter.Entity.dll
+D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Entity\bin\Debug\SmartMeter.Entity.pdb
+D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Entity\obj\Debug\SmartMeter.Entity.csprojResolveAssemblyReference.cache
+D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Entity\obj\Debug\SmartMeter.Entity.dll
+D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Entity\obj\Debug\SmartMeter.Entity.pdb
