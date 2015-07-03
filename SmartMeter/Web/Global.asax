@@ -1,12 +1,19 @@
-﻿<%@ Application Language="C#" %>
+﻿<%@ Application Language="C#"  %>
 
 <script runat="server">
 
+
     void Application_Start(object sender, EventArgs e) 
-    {
+    {   
         // Code that runs on application startup
         List<SmartMeter.Entity.Tariff> TariffList =   SmartMeter.Data.Common.LoadTariff();
         Application.Add("Tariff", TariffList);
+
+        if (System.Configuration.ConfigurationManager.AppSettings["TaxPercentage"] != null)
+        {
+            SmartMeter.Entity.Tax.TaxPercentage = Convert.ToDouble(System.Configuration.ConfigurationManager.AppSettings["TaxPercentage"].ToString());
+            Application.Add("TaxPercentage", SmartMeter.Entity.Tax.TaxPercentage);
+        }
     }
     
     void Application_End(object sender, EventArgs e) 

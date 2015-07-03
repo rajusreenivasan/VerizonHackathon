@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMeter.Business", "SmartMeter.Business\SmartMeter.Business.csproj", "{C1B6C0BC-17F1-46E4-9BE2-2EC0E1155102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMeter.Data", "SmartMeter.Data\SmartMeter.Data.csproj", "{A262DCCC-8367-43ED-AAB9-75C3FCE2A1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMeter.Entity", "SmartMeter.Entity\SmartMeter.Entity.csproj", "{05ACF761-91F3-449D-A02B-036BAA35D28A}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Web", "Web\", "{BC1DFB44-DB74-49D5-8876-8364389AD514}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{d6333d26-9801-46b4-ae73-4c27037d61b5}|SmartMeter.PDFWriter.dll;{a262dccc-8367-43ed-aab9-75c3fce2a1af}|SmartMeter.Data.dll;{05ACF761-91F3-449D-A02B-036BAA35D28A}|SmartMeter.Entity.dll;{c1b6c0bc-17f1-46e4-9be2-2ec0e1155102}|SmartMeter.Business.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Web"
+		Debug.AspNetCompiler.PhysicalPath = "Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Web"
+		Release.AspNetCompiler.PhysicalPath = "Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53493"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMeter.PDF", "SmartMeter.PDF\SmartMeter.PDF.csproj", "{D6333D26-9801-46B4-AE73-4C27037D61B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B6C0BC-17F1-46E4-9BE2-2EC0E1155102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B6C0BC-17F1-46E4-9BE2-2EC0E1155102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B6C0BC-17F1-46E4-9BE2-2EC0E1155102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B6C0BC-17F1-46E4-9BE2-2EC0E1155102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A262DCCC-8367-43ED-AAB9-75C3FCE2A1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A262DCCC-8367-43ED-AAB9-75C3FCE2A1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A262DCCC-8367-43ED-AAB9-75C3FCE2A1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A262DCCC-8367-43ED-AAB9-75C3FCE2A1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05ACF761-91F3-449D-A02B-036BAA35D28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05ACF761-91F3-449D-A02B-036BAA35D28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05ACF761-91F3-449D-A02B-036BAA35D28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05ACF761-91F3-449D-A02B-036BAA35D28A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1DFB44-DB74-49D5-8876-8364389AD514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1DFB44-DB74-49D5-8876-8364389AD514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1DFB44-DB74-49D5-8876-8364389AD514}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1DFB44-DB74-49D5-8876-8364389AD514}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D6333D26-9801-46B4-AE73-4C27037D61B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6333D26-9801-46B4-AE73-4C27037D61B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6333D26-9801-46B4-AE73-4C27037D61B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6333D26-9801-46B4-AE73-4C27037D61B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

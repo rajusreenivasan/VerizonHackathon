@@ -1,0 +1,14 @@
+D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Data\bin\Debug\SmartMeter.Data.dll
+D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Data\bin\Debug\SmartMeter.Data.pdb
+D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Data\obj\Debug\SmartMeter.Data.dll
+D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Data\obj\Debug\SmartMeter.Data.pdb
+D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Data\obj\Debug\SmartMeter.Data.csprojResolveAssemblyReference.cache
+D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Data\bin\Debug\SmartMeter.Entity.dll
+D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Data\bin\Debug\SmartMeter.Entity.pdb
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.Data\bin\Debug\SmartMeter.Data.dll
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.Data\bin\Debug\SmartMeter.Data.pdb
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.Data\bin\Debug\SmartMeter.Entity.dll
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.Data\bin\Debug\SmartMeter.Entity.pdb
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.Data\obj\Debug\SmartMeter.Data.csprojResolveAssemblyReference.cache
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.Data\obj\Debug\SmartMeter.Data.dll
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.Data\obj\Debug\SmartMeter.Data.pdb

@@ -1,0 +1,7 @@
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.PDF\bin\Debug\Aspose.Pdf.dll
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.PDF\bin\Debug\Aspose.Pdf.xml
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.PDF\bin\Debug\SmartMeter.PDFWriter.dll
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.PDF\bin\Debug\SmartMeter.PDFWriter.pdb
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.PDF\obj\Debug\SmartMeter.PDFWriter.dll
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.PDF\obj\Debug\SmartMeter.PDFWriter.pdb
+D:\Hackathon\GIT\VerizonHackathon\SmartMeter\SmartMeter.PDF\obj\Debug\SmartMeter.PDF.csprojResolveAssemblyReference.cache

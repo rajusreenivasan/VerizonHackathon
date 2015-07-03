@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>TNEB - Invoice</title>
+    <%--<link href="Style.css" rel="stylesheet" />--%>
+    <link href="Template/style.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="Container">
+
+            <%--<div class="style3"></div>--%>
+            <div class="style_2"><span class="style3"><a href="http://www.zonnebank-studio-vergelijk.nl" title="Zonnebank Zonnestudio"><strong>Zonnebank zonnestudio</strong></a></span></div>
+            <div id="wrap">
+                <div id="topbar">
+                    <h1 id="sitename">TamilNadu Governemnt Smart Invoice 
+                        <br />
+                    </h1>
+                    <div id="menus">
+                        <ul id="topmenu">
+                            <li class="active"><a href="#">Home</a>
+                            </li>
+                            <li><a href="CreateInvoice.aspx">Create Invoice</a>
+                            </li>
+                            <li><a href="#">Add Customer</a>
+                            </li>
+                            <li><a href="#">products</a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div id="header">
+                </div>
+                <div id="content">
+                    <div id="mainpage">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+        </div>
+
+    </form>
+</body>
+</html>
