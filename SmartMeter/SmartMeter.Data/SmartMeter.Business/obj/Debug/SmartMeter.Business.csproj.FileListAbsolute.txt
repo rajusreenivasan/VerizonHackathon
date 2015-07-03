@@ -1,9 +1,0 @@
-D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Business\obj\Debug\SmartMeter.Business.csprojResolveAssemblyReference.cache
-D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Business\bin\Debug\SmartMeter.Business.dll
-D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Business\bin\Debug\SmartMeter.Business.pdb
-D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Business\bin\Debug\SmartMeter.Data.dll
-D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Business\bin\Debug\SmartMeter.Entity.dll
-D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Business\bin\Debug\SmartMeter.Data.pdb
-D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Business\bin\Debug\SmartMeter.Entity.pdb
-D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Business\obj\Debug\SmartMeter.Business.dll
-D:\Hackathon\SmartMeter\SmartMeter.Data\SmartMeter.Business\obj\Debug\SmartMeter.Business.pdb
